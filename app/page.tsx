@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, RefObject } from "react";
 
 interface AnimNumTypes {
   target: string,
@@ -58,8 +58,8 @@ const REASONS = [
   },
 ];
 
-function useInView(threshold = 0.15) {
-  const ref = useRef(null);
+function useInView(threshold = 0.15): [RefObject<HTMLSpanElement | null>, boolean] {
+    const ref = useRef<HTMLSpanElement>(null);
   const [inView, setInView] = useState(false);
   useEffect(() => {
     const obs = new IntersectionObserver(
