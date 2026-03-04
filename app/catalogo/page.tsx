@@ -42,7 +42,7 @@ const PRODUCTS: Product[] = [
 ];
 
 const CATEGORIES = ["Todos", ...Array.from(new Set(PRODUCTS.map(p => p.category)))];
-const WA_NUMBER = "549XXXXXXXXXX"; // Reemplazar con número real
+const WA_NUMBER = "543624854094"; // Reemplazar con número real
 
 export default function Catalogo() {
   const [cart, setCart] = useState<CartItem[]>([]);

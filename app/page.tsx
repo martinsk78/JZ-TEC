@@ -255,7 +255,7 @@ export default function Home() {
             Reseñas
           </a>
           <a
-            href="https://wa.me/549XXXXXXXXXX"
+            href="https://wa.me/543624854094"
             target="_blank"
             className="btn-primary"
             style={{ padding: "10px 22px", fontSize: "0.85rem" }}
@@ -417,7 +417,7 @@ export default function Home() {
             style={{ display: "flex", gap: 16, flexWrap: "wrap" }}
           >
             <a
-              href="https://wa.me/549XXXXXXXXXX"
+              href="https://wa.me/543624854094"
               target="_blank"
               className="btn-primary"
             >
@@ -591,7 +591,7 @@ export default function Home() {
                 la mejor decisión.
               </p>
               <a
-                href="https://wa.me/549XXXXXXXXXX"
+                href="https://wa.me/543624854094"
                 target="_blank"
                 className={`btn-primary fade-up ${whyInView ? "visible" : ""} delay-3`}
                 style={{ display: "inline-flex" }}
@@ -834,7 +834,7 @@ export default function Home() {
             }}
           >
             <a
-              href="https://wa.me/549XXXXXXXXXX"
+              href="https://wa.me/543624854094"
               target="_blank"
               className="btn-primary"
               style={{ fontSize: "1.05rem", padding: "18px 48px" }}
@@ -897,7 +897,7 @@ export default function Home() {
           © {new Date().getFullYear()} Alonso Informática · Santa Fe Capital
         </p>
         <a
-          href="https://wa.me/549XXXXXXXXXX"
+          href="https://wa.me/543624854094"
           target="_blank"
           style={{
             color: "#00e5ff",
