@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 
 
 export const metadata: Metadata = {
-  title: "Servicio Técnico de Computadoras en Santa Fe Capital | JZ-TEC",
-  description: "Reparación de PC, notebooks, Smart TV y consolas en Santa Fe Capital. Diagnóstico sin cargo y garantía escrita. Más de 10 años de experiencia.",
-  keywords: ["servicio técnico Santa Fe", "reparación computadoras Santa Fe", "técnico PC Santa Fe Capital", "reparación notebooks Santa Fe"],
+   title: "Alonso Informática | Tienda de Informática en Santa Fe Capital",
+  description: "Tienda de informática en Santa Fe Capital. Repuestos, reparación de PC, notebooks y consolas. 25 de Mayo 2818 · 0342 454-1001",
+  keywords: ["tienda informatica santa fe", "repuestos pc santa fe", "alonso informatica santa fe capital"],
   openGraph: {
-    title: "JZ-TEC | Servicio Técnico en Santa Fe Capital",
-    description: "Reparación profesional de computadoras, notebooks, Smart TV y consolas.",
+    title: "Alonso Informatica | Tienda de informática en Santa Fe Capital",
+    description: "Componentes electronicos, para pc, celulares, etc.",
     locale: "es_AR",
     type: "website",
   },

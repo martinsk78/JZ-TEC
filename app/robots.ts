@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://jztec.com.ar/sitemap.xml",
+    sitemap: "https://alonsoinformatica.com.ar/sitemap.xml",
   };
 }
